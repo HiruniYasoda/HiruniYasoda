@@ -1,36 +1,41 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
-    <img
-      src="./dark.svg"
-      alt="Hiruni Yasoda Sethmini — Full-Stack Software Engineer, AI/ML & NLP Developer, and Computing & Information Systems Undergraduate"
-      width="100%"
-    />
-  </picture>
-</p>
+<table>
+  <tr>
+    <td width="38%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
+        <img
+          src="./dark.svg"
+          alt="Hiruni Yasoda Sethmini — ASCII Terminal Portrait"
+          width="100%"
+        />
+      </picture>
+    </td>
+    <td width="62%" valign="top">
 
----
+### Hi there, I'm **Hiruni Yasoda Sethmini** 👋
+**Full-Stack Software Engineer · AI/ML & NLP Developer · CIS Undergraduate**
 
-### `~/about` — Engineering & Research Focus
+Undergraduate pursuing a **B.Sc. (Hons) in Computing & Information Systems** at the **Sabaragamuwa University of Sri Lanka (SUSL)**, with freelance software development experience since 2023.
 
-Undergraduate pursuing a **B.Sc. (Hons) in Computing & Information Systems** at the **Sabaragamuwa University of Sri Lanka (SUSL)**, with freelance software development experience since 2023. I build full-stack web applications, multi-tenant AI agent orchestration workflows, NLP analytics pipelines, and interactive data dashboards.
+#### `~/about` — Focus & Highlights
+- **Engineering:** Full-stack web applications (`React`, `Next.js`, `TypeScript`, `Laravel`, `Node.js`, `Spring Boot`)
+- **AI / ML & Data:** Applied machine learning, NLP pipelines, and Power BI analytics (`Python`, `Scikit-learn`, `NLTK`, `XGBoost`, `LightGBM`)
+- **Achievements:** 1st Runner-Up at **HACKORA – Hack the Gap** (IEEE SIGHT Sri Lanka); Finalist with **Kinetic HR Cloud**
+- **Availability:** Open for **Software Engineering, AI/ML, Business Analyst, or QA** internships starting **January 2027**
 
-- **Core Focus:** Full-Stack Engineering (`React`, `Next.js`, `TypeScript`, `Laravel`, `Node.js`, `Spring Boot`) & Applied AI/ML (`Python`, `Scikit-learn`, `NLTK`, `XGBoost`, `LightGBM`)
-- **Recognition:** First Runner-Up at **HACKORA – Hack the Gap** (IEEE SIGHT Sri Lanka) with Team Idea Igniters; Finalist with **Kinetic HR Cloud**
-- **Internship Availability:** Open to **Software Engineering, AI/ML, Business Analyst, or Quality Assurance** internship roles starting **January 2027**
+#### `~/featured-builds`
+- **CODL-SUSL Student Management System** — React, TypeScript, Laravel API & Python/NLP curriculum gap analyzer
+- **Kinetic HR Cloud** — Multi-tenant cloud AI agent orchestration platform for HR workflows
+- **Sri Lanka Tourism Analytics Dashboard** — Interactive Power BI Star Schema & DAX revenue/seasonality model
+- **Bilingual Tech & Creative Blog** — Full-stack Sinhala & English publishing platform
 
----
+#### `~/connect`
+🌐 **Portfolio:** [yasodasethmini.com](https://yasodasethmini.com) &nbsp;|&nbsp; 🎥 **Video Resume:** [YouTube](https://www.youtube.com)
 
-### `~/featured-builds` — Selected Projects
-
-| Project | Stack | Summary |
-| :--- | :--- | :--- |
-| **CODL-SUSL Student Management System** | `React` · `TypeScript` · `Laravel` · `Python` · `NLP` · `MySQL` | Served as Project Manager and full-stack developer for a student management system with REST APIs and a Python/NLP curriculum gap analyzer. |
-| **Kinetic HR Cloud** | `Cloud` · `AI Agent Orchestration` · `Full-Stack` | Multi-tenant cloud AI agent orchestration platform designed to automate HR policy workflows (Competition Finalist). |
-| **Sri Lanka Tourism Analytics Dashboard** | `Power BI` · `Star Schema` · `DAX` | Interactive tourism revenue and seasonality analytics model integrating SLTDA arrival/survey data with Central Bank monthly receipts. |
-| **Bilingual Tech & Creative Blog** | `Full-Stack Web` · `Sinhala / English` | Bilingual blogging platform supporting technical writing and creative compositions. |
-| **Desktop Library Management System** | `C#` · `.NET Framework` · `ASP.NET Web Forms` · `MySQL` | Desktop and web-connected library management application built for client operations. |
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,9 +43,8 @@ Undergraduate pursuing a **B.Sc. (Hons) in Computing & Information Systems** at 
 
 - **Languages:** `Python` · `TypeScript` · `JavaScript` · `Java` · `PHP` · `C#` · `SQL` · `Ballerina`
 - **Frontend & UI/UX:** `React` · `Next.js` · `Tailwind CSS` · `Framer Motion` · `Figma` · `Adobe Photoshop & Illustrator`
-- **Backend & APIs:** `Node.js` · `Laravel` · `Spring Boot` · `.NET Framework` · `RESTful APIs`
-- **AI, ML & Data:** `Pandas` · `Scikit-learn` · `NLTK` · `XGBoost` · `LightGBM` · `Power BI (DAX)`
-- **Databases & Workflow:** `MySQL` · `PostgreSQL` · `MongoDB` · `Git / GitHub` · `Linux (Ubuntu)` · `Jira` · `Notion`
+- **Backend & Databases:** `Node.js` · `Laravel` · `Spring Boot` · `.NET Framework` · `MySQL` · `PostgreSQL` · `MongoDB`
+- **AI, ML & Analytics:** `Pandas` · `Scikit-learn` · `NLTK` · `XGBoost` · `LightGBM` · `Power BI (DAX)`
 
 ---
 
@@ -51,14 +55,14 @@ Undergraduate pursuing a **B.Sc. (Hons) in Computing & Information Systems** at 
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/github-snake/output/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/HiruniYasoda/github-snake/output/github-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/github-snake/output/github-snake.svg"
+      srcset="https://raw.githubusercontent.com/HiruniYasoda/github-snake/output/github-snake.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/github-snake/output/github-snake.svg"
+      src="https://raw.githubusercontent.com/HiruniYasoda/github-snake/output/github-snake.svg"
       alt="GitHub Contribution Snake"
       width="100%"
     />
