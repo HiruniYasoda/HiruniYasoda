@@ -27,21 +27,31 @@
   </picture>
 </p>
 
+<code>
 
+### `~/about` 
 
-### `~/about` — Engineering, BA & QA Focus
+<table frame="void" rules="none">
+  <tr>
+    <td width="66%" valign="top">
+I am genuinely passionate about building practical software and AI solutions that turn everyday problems into clear, dependable tools. Whether I am diving into a new codebase, learning an unfamiliar stack, or moving between full-stack engineering, AI/ML and NLP, business analysis, and quality assurance, I adapt quickly and love learning by doing.
 
-- **Core Stack:** `Python`, `TypeScript`, `JavaScript`, `Java`, `PHP`, `C#`, `SQL`, `Ballerina`, `React`, `Next.js`, `React Native`, `Node.js`, `Laravel`, `Spring Boot`, `.NET`, `MySQL`, `PostgreSQL`, `MongoDB`
-- **AI, NLP & BI:** `NLP`, `RAG`, `Regex`, `Pandas`, `Scikit-learn`, `NLTK`, `XGBoost`, `LightGBM`, `Power BI` (`Star Schema`, `DAX`)
-- **BA & QA:** Requirements elicitation, workflow & gap analysis, test planning, functional & regression testing, bug triage, edge-case validation, UAT
-- **Design, Video & PM Tools:** `Figma`, `Adobe Photoshop`, `Adobe Illustrator`, `Canva`, `Clipchamp`, `Jira`, `Trello`, `Notion`
-- **Internship Availability:** Open to `Software Engineering`, `AI/ML`, `Business Analyst`, or `Quality Assurance` roles starting `January 2027`
-
----
+- 🚀 **Passionate & Eager to Learn:** Always curious about emerging technologies, AI/ML workflows, and modern tools—quick to pick up new concepts and excited to grow alongside a strong engineering team.
+- 🔄 **Adaptable & Leadership:** Experienced in stepping up as project manager and team collaborator across academic, hackathon, and freelance builds, adjusting smoothly as priorities and requirements shift.
+- 💡 **Ownership & Clarity:** Focused on understanding real user needs, structuring clean workflows, and verifying quality so features work reliably in practice.
+- 🎻 **Hobby — Visharada in Violin:** Earning my Visharada in violin performance is a cherished personal hobby that shaped my discipline, patience, attentive listening, and creative expression.
+<code>
+    </td>
+    <td width="34%" align="center" valign="middle">
+      <img src="./image_1.png" alt="Hiruni Yasoda Sethmini" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ### `~/contributions` — GitHub Contribution Snake
-
+<code>
 <h2 align="center">GitHub Contributions</h2>
+  <code>
 <p align="center">
   <picture>
     <source
