@@ -1,50 +1,41 @@
-<table>
-  <tr>
-    <td width="38%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
-        <img
-          src="./dark.svg"
-          alt="Hiruni Yasoda Sethmini — ASCII Terminal Portrait"
-          width="100%"
-        />
-      </picture>
-    </td>
-    <td width="62%" valign="top">
 
-### Hi there, I'm **Hiruni Yasoda Sethmini** 👋
-**Full-Stack Software Engineer · AI/ML & NLP Developer · CIS Undergraduate**
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=1400&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&height=42&lines=Hi+there,+I'm+Hiruni+Yasoda+Sethmini+%F0%9F%91%8B"
+      alt="Hi there, I'm Hiruni Yasoda Sethmini 👋"
+    />
+  </a>
+</p>
 
-Undergraduate pursuing a **B.Sc. (Hons) in Computing & Information Systems** at the **Sabaragamuwa University of Sri Lanka (SUSL)**, with freelance software development experience since 2023.
+<p align="center">
+  <code>Full-Stack Software Engineer · AI/ML &amp; NLP Developer · BA &amp; QA Enthusiast</code>
+</p>
 
-#### `~/about` — Focus & Highlights
-- **Engineering:** Full-stack web applications (`React`, `Next.js`, `TypeScript`, `Laravel`, `Node.js`, `Spring Boot`)
-- **AI / ML & Data:** Applied machine learning, NLP pipelines, and Power BI analytics (`Python`, `Scikit-learn`, `NLTK`, `XGBoost`, `LightGBM`)
-- **Achievements:** 1st Runner-Up at **HACKORA – Hack the Gap** (IEEE SIGHT Sri Lanka); Finalist with **Kinetic HR Cloud**
-- **Availability:** Open for **Software Engineering, AI/ML, Business Analyst, or QA** internships starting **January 2027**
-
-#### `~/featured-builds`
-- **CODL-SUSL Student Management System** — React, TypeScript, Laravel API & Python/NLP curriculum gap analyzer
-- **Kinetic HR Cloud** — Multi-tenant cloud AI agent orchestration platform for HR workflows
-- **Sri Lanka Tourism Analytics Dashboard** — Interactive Power BI Star Schema & DAX revenue/seasonality model
-- **Bilingual Tech & Creative Blog** — Full-stack Sinhala & English publishing platform
-
-#### `~/connect`
-🌐 **Portfolio:** [yasodasethmini.com](https://yasodasethmini.com) &nbsp;|&nbsp; 🎥 **Video Resume:** [YouTube](https://www.youtube.com)
-
-    </td>
-  </tr>
-</table>
+`Undergraduate pursuing a B.Sc. (Hons) in Computing & Information Systems at the Sabaragamuwa University of Sri Lanka (SUSL), with freelance software development experience since 2023.`
 
 ---
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
+    <img
+      src="./dark.svg"
+      alt="Hiruni Yasoda Sethmini — ASCII Terminal Profile"
+      width="100%"
+    />
+  </picture>
+</p>
 
-### `~/tech-stack` — Tools & Technologies
 
-- **Languages:** `Python` · `TypeScript` · `JavaScript` · `Java` · `PHP` · `C#` · `SQL` · `Ballerina`
-- **Frontend & UI/UX:** `React` · `Next.js` · `Tailwind CSS` · `Framer Motion` · `Figma` · `Adobe Photoshop & Illustrator`
-- **Backend & Databases:** `Node.js` · `Laravel` · `Spring Boot` · `.NET Framework` · `MySQL` · `PostgreSQL` · `MongoDB`
-- **AI, ML & Analytics:** `Pandas` · `Scikit-learn` · `NLTK` · `XGBoost` · `LightGBM` · `Power BI (DAX)`
+
+### `~/about` — Engineering, BA & QA Focus
+
+- **Core Stack:** `Python`, `TypeScript`, `JavaScript`, `Java`, `PHP`, `C#`, `SQL`, `Ballerina`, `React`, `Next.js`, `React Native`, `Node.js`, `Laravel`, `Spring Boot`, `.NET`, `MySQL`, `PostgreSQL`, `MongoDB`
+- **AI, NLP & BI:** `NLP`, `RAG`, `Regex`, `Pandas`, `Scikit-learn`, `NLTK`, `XGBoost`, `LightGBM`, `Power BI` (`Star Schema`, `DAX`)
+- **BA & QA:** Requirements elicitation, workflow & gap analysis, test planning, functional & regression testing, bug triage, edge-case validation, UAT
+- **Design, Video & PM Tools:** `Figma`, `Adobe Photoshop`, `Adobe Illustrator`, `Canva`, `Clipchamp`, `Jira`, `Trello`, `Notion`
+- **Internship Availability:** Open to `Software Engineering`, `AI/ML`, `Business Analyst`, or `Quality Assurance` roles starting `January 2027`
 
 ---
 
