@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
@@ -27,20 +26,17 @@
   </picture>
 </p>
 
-<code>
-
-### `~/about` 
+### `~/about`
 
 <table frame="void" rules="none">
   <tr>
     <td width="66%" valign="top">
-I am genuinely passionate about building practical software and AI solutions that turn everyday problems into clear, dependable tools. Whether I am diving into a new codebase, learning an unfamiliar stack, or moving between full-stack engineering, AI/ML and NLP, business analysis, and quality assurance, I adapt quickly and love learning by doing.
+`I am genuinely passionate about building practical software and AI solutions that turn everyday problems into clear, dependable tools. Whether I am diving into a new codebase, learning an unfamiliar stack, or moving between full-stack engineering, AI/ML and NLP, business analysis, and quality assurance, I adapt quickly and love learning by doing.`
 
-- 🚀 **Passionate & Eager to Learn:** Always curious about emerging technologies, AI/ML workflows, and modern tools—quick to pick up new concepts and excited to grow alongside a strong engineering team.
-- 🔄 **Adaptable & Leadership:** Experienced in stepping up as project manager and team collaborator across academic, hackathon, and freelance builds, adjusting smoothly as priorities and requirements shift.
-- 💡 **Ownership & Clarity:** Focused on understanding real user needs, structuring clean workflows, and verifying quality so features work reliably in practice.
-- 🎻 **Hobby — Visharada in Violin:** Earning my Visharada in violin performance is a cherished personal hobby that shaped my discipline, patience, attentive listening, and creative expression.
-<code>
+- 🚀 **`Passionate & Eager to Learn:`** `Always curious about emerging technologies, AI/ML workflows, and modern tools—quick to pick up new concepts and excited to grow alongside a strong engineering team.`
+- 🔄 **`Adaptable & Leadership:`** `Experienced in stepping up as project manager and team collaborator across academic, hackathon, and freelance builds, adjusting smoothly as priorities and requirements shift.`
+- 💡 **`Ownership & Clarity:`** `Focused on understanding real user needs, structuring clean workflows, and verifying quality so features work reliably in practice.`
+- 🎻 **`Hobby — Visharada in Violin:`** `Earning my Visharada in violin performance is a cherished personal hobby that shaped my discipline, patience, attentive listening, and creative expression.`
     </td>
     <td width="34%" align="center" valign="middle">
       <img src="./image_1.png" alt="Hiruni Yasoda Sethmini" width="100%" />
@@ -49,9 +45,9 @@ I am genuinely passionate about building practical software and AI solutions tha
 </table>
 
 ### `~/contributions` — GitHub Contribution Snake
-<code>
-<h2 align="center">GitHub Contributions</h2>
-  <code>
+
+<h2 align="center"><code>GitHub Contributions</code></h2>
+
 <p align="center">
   <picture>
     <source
@@ -74,6 +70,6 @@ I am genuinely passionate about building practical software and AI solutions tha
 
 ### `~/connect` — Links & Community
 
-- **Portfolio:** [yasodasethmini.com](https://yasodasethmini.com)
-- **Video Resume:** [YouTube Showcase](https://www.youtube.com)
-- **Community & Arts:** Free O/L ICT past-paper revision classes; Team Idea Igniters; Visharada in Violin Performance.
+- **`Portfolio:`** [yasodasethmini.com](https://yasodasethmini.com)
+- **`Video Resume:`** [YouTube Showcase](https://www.youtube.com)
+- **`Community & Arts:`** `Free O/L ICT past-paper revision classes; Team Idea Igniters; Visharada in Violin Performance.`
